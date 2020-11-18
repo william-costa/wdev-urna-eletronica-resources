@@ -89,12 +89,10 @@ ___________________
 
 ## Áudios
 
-Segue abaixo lista de links para download dos arquivos de áudio utilizado
+Segue abaixo arquivo compactado contendo os dois arquivos de áudio necessários para o projeto.
 ```
-https://raw.githubusercontent.com/william-costa/wdev-urna-eletronica-resources/master/audios/confirm.wav
-https://raw.githubusercontent.com/william-costa/wdev-urna-eletronica-resources/master/audios/key.wav
+https://raw.githubusercontent.com/william-costa/wdev-urna-eletronica-resources/master/audios/audios.zip
 ```
-
 ___________________
 
 ## Canal no YouTube
