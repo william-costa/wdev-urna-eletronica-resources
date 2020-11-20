@@ -90,9 +90,7 @@ ___________________
 ## Áudios
 
 Segue abaixo arquivo compactado contendo os dois arquivos de áudio necessários para o projeto.
-```
 https://raw.githubusercontent.com/william-costa/wdev-urna-eletronica-resources/master/audios/audios.zip
-```
 ___________________
 
 ## Canal no YouTube
